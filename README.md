@@ -1,6 +1,6 @@
 # E_commerce_sales
 #### Tasks
-The [code](https://github.com/andidwikiy/E_commerce_sales/blob/c00b1c79d121845f854780959cfdf7d1ca537839/E_commerce_analysis.ipynb) addresses two main tasks in analyzing an e-commerce sales dataset:
+The [code](https://github.com/andidwikiy/E_commerce_sales/blob/c3eea75b6436a9bb040c53a4799cc58bddf4f647/E_commerce_analysis.ipynb) addresses two main tasks in analyzing an e-commerce sales dataset:
 
 1. **Case #1: Product and Sales Analysis**
    - **Objective**: To provide an overview of the e-commerce sales performance by product category. This includes calculating the count of products, average review scores, total reviews, and monthly sales for each product category. 
